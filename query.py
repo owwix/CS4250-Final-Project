@@ -72,7 +72,7 @@ class QueryEngine:
         
 if __name__ == "__main__":
     engine = QueryEngine(
-        mongo_uri="",
+        mongo_uri="mongodb+srv://owwix:finalproject@cluster0.n1zt8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         db_name="cppbusiness",
         collection_name="pages",
     )
