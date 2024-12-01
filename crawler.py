@@ -4,14 +4,18 @@ from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from urllib.parse import urljoin
 import re
+from sklearn.feature_extraction.text import TfidfVectorizer
+from collections import defaultdict
+import string
+import logging
 
 # MongoDB setup
 client = MongoClient("mongodb+srv://owwix:finalproject@cluster0.n1zt8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client["cppbusinesscrawl"]
-indexed_collection = db["faculty_info"]
+pages_collection = db["pages"]  # Stores pages and content
+index_collection = db["inverted_index"]  # Stores inverted index
 
 # Logging setup
-import logging
 logging.basicConfig(filename='crawler_errors.log', level=logging.ERROR)
 
 class Frontier:
@@ -58,14 +62,30 @@ def target_page(soup):
                     return True
     return False
 
-def parse_faculty_content(soup):
-    content_div = soup.find("div", class_="section-menu")
-    if content_div:
-        return content_div.get_text(strip=True)
-    return None
+def preprocess(text):
+    # Remove punctuation, lowercase the text, and remove non-alphanumeric characters
+    text = re.sub(r"[^\w\s]", "", text)
+    return text.lower()
+
+def build_inverted_index(documents, vectorizer):
+    """Builds an inverted index using TF-IDF."""
+    inverted_index = defaultdict(list)
+    tfidf_matrix = vectorizer.fit_transform(documents)
+    feature_names = vectorizer.get_feature_names_out()
+
+    for doc_id, doc_vector in enumerate(tfidf_matrix):
+        for word_idx in doc_vector.nonzero()[1]:
+            word = feature_names[word_idx]
+            score = doc_vector[0, word_idx]
+            inverted_index[word].append({"doc_id": doc_id, "score": score})
+
+    return inverted_index
 
 async def crawl_and_store(frontier, num_targets, session):
     targets_found = 0
+    documents = []  # Text content of pages
+    urls = []  # URLs of the crawled pages
+
     while not frontier.done():
         url = frontier.nextURL()
         html = await retrieveURL(session, url)
@@ -78,26 +98,42 @@ async def crawl_and_store(frontier, num_targets, session):
         if target_page(soup):
             print(f"{targets_found + 1} TARGET PAGE DETECTED {url}")
             targets_found += 1
-            content = parse_faculty_content(soup)
-            if content:
-                indexed_collection.insert_one({"url": url, "content": content})
-                print(f"Indexed: {url}")
+            content = soup.get_text(separator=" ")
+            cleaned_content = preprocess(content)
+            documents.append(cleaned_content)
+            urls.append(url)
+
+            # Store page content in MongoDB
+            pages_collection.insert_one({"url": url, "content": content})
+            print(f"Indexed page: {url}")
 
             if targets_found == num_targets:
                 print("Target limit reached, stopping crawl.")
                 break
 
+        # Add new links to the frontier
         for link in soup.find_all("a", href=True):
             full_url = urljoin(url, link["href"])
             frontier.addURL(full_url)
+
+    # Build inverted index using TF-IDF
+    if documents:
+        vectorizer = TfidfVectorizer()
+        inverted_index = build_inverted_index(documents, vectorizer)
+
+        # Store inverted index in MongoDB
+        for term, postings in inverted_index.items():
+            index_collection.insert_one({"term": term, "postings": postings})
+        print("Inverted index stored in MongoDB.")
+        
 
 async def main():
     department_urls = ["https://www.cpp.edu/cba/international-business-marketing/faculty-staff/index.shtml"]
     frontier = Frontier(department_urls)
 
-    # Open aiohttp session and run the crawler concurrently
+    # Open aiohttp session and run the crawler
     async with aiohttp.ClientSession() as session:
         await crawl_and_store(frontier, num_targets=10, session=session)
-
+    
 if __name__ == "__main__":
     asyncio.run(main())
