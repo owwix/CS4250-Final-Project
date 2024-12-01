@@ -5,8 +5,8 @@ import math
 import re
 
 class QueryEngine:
-    def __init__(self, db_name="cppbusiness", collection_name="pages"):
-        self.client = pymongo.MongoClient("mongodb://localhost:27017/") #enter db here
+    def __init__(self, mongo_url="mongodb+srv://owwix:finalproject@cluster0.n1zt8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", db_name="cppbusinesscrawl", collection_name="pages"):
+        self.client = pymongo.MongoClient(mongo_url) #enter db here
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
         self.vectorizer = None
@@ -31,7 +31,7 @@ class QueryEngine:
         self.tfidf_matrix = self.vectorizer.fit_transform(self.documents)
 
 
-    def query(self, query):
+    def query(self, query, page):
         
         if self.tfidf_matrix is None or self.vectorizer is None:
             raise ValueError("TF-IDF data has not been loaded. Call load_data() first.")
@@ -40,10 +40,10 @@ class QueryEngine:
         query_vector = self.vectorizer.transform([preprocessed_query])
         similarity_scores = cosine_similarity(query_vector, self.tfidf_matrix).flatten()
 
-        results = self.rank_results(similarity_scores)
+        results = self.rank_results(similarity_scores, page)
         return results
 
-    def rank_results(self, similarity_scores):
+    def rank_results(self, similarity_scores, page):
 
         #rank by score
         ranked = similarity_scores.argsort()[::-1]
@@ -72,8 +72,8 @@ class QueryEngine:
         
 if __name__ == "__main__":
     engine = QueryEngine(
-        mongo_uri="mongodb+srv://owwix:finalproject@cluster0.n1zt8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-        db_name="cppbusiness",
+        mongo_url="mongodb+srv://owwix:finalproject@cluster0.n1zt8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        db_name="cppbusinesscrawl",
         collection_name="pages",
     )
     engine.load_data()
