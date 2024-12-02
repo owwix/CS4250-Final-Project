@@ -89,12 +89,14 @@ if __name__ == "__main__":
         if query_results["results"]:
             print(f"\nPage {query_results['pagination']['current_page']} of {query_results['pagination']['total_pages']}")
             for result in query_results["results"]:
-                print(f"- URL: {result['url']}\n  Snippet: {result['snippet']}...\n  Score: {result['score']:.4f}\n")
+                print(f"- URL: {result['url']}\nScore: {result['score']:.4f}\n")
         else:
-            print("No relevant results found.")
-            loop = False
+            print("No relevant results found for the query.")
+            query = input("Enter a new search query: ")
+            page = 1
+            continue  
 
-        next_action = input("Enter 'n' for next page, 'p' for previous page, or 'q' to quit: ").lower()
+        next_action = input("Enter 'n' for next page, 'p' for previous page, 'a' for a new query, or 'q' to quit: ").lower()
         if next_action == "n":
             if page < query_results["pagination"]["total_pages"]:
                 page += 1
@@ -105,7 +107,10 @@ if __name__ == "__main__":
                 page -= 1
             else:
                 print("You're already on the first page.")
+        elif next_action == "a":
+            query = input("Enter your new search query: ")
+            page = 1
         elif next_action == "q":
-            break
+            loop = False
         else:
             print("Invalid input. Try again.")
