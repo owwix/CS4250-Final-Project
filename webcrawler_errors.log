@@ -1,0 +1,370 @@
+2024-12-07 07:07:42,524 	INFO 	Starting new log!
+2024-12-07 07:07:42,703 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/index.shtml
+2024-12-07 07:07:42,956 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/faculty-staff/ibm-lecturers.shtml
+2024-12-07 07:07:43,325 	INFO 	URL Retrieved: https://www.cpp.edu/~cba/index.shtml
+2024-12-07 07:07:43,572 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/faculty-staff/index.shtml
+2024-12-07 07:07:43,733 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/mba.shtml
+2024-12-07 07:07:43,986 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/undergraduate/study-abroad.shtml
+2024-12-07 07:07:44,134 	INFO 	URL Retrieved: https://www.cpp.edu/cba/student-success/mentorship-program.shtml
+2024-12-07 07:07:44,385 	INFO 	URL Retrieved: https://www.cpp.edu/cba/our-faculty/index.shtml
+2024-12-07 07:07:44,555 	INFO 	URL Retrieved: https://www.cpp.edu/cba/centers-and-labs/index.shtml
+2024-12-07 07:07:44,800 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/jrmyers/index.shtml
+2024-12-07 07:07:44,947 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/about-us/index.shtml
+2024-12-07 07:07:45,113 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/master-science-financial-analytics.shtml
+2024-12-07 07:07:45,361 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/graduate/prospective1/costs.shtml
+2024-12-07 07:07:45,735 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/adjunct-positions.shtml
+2024-12-07 07:07:45,982 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/semester-curriculum/certificate.shtml
+2024-12-07 07:07:46,228 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/about-us/news.shtml
+2024-12-07 07:07:46,600 	INFO 	URL Retrieved: http://www.cpp.edu/~academics/colleges-departments/index.shtml
+2024-12-07 07:07:46,750 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/current-students/index.shtml
+2024-12-07 07:07:47,007 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/undergraduate/newly-admitted/index.shtml
+2024-12-07 07:07:47,389 	INFO 	URL Retrieved: http://www.cpp.edu/~campus-life/campus-safety-info/index.shtml
+2024-12-07 07:07:47,573 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/credentials/current-students.shtml
+2024-12-07 07:07:47,824 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/industry/internships.shtml
+2024-12-07 07:07:48,218 	INFO 	URL Retrieved: http://www.cpp.edu/~library/index.shtml
+2024-12-07 07:07:48,408 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/curriculum/curriculum-sheets.shtml
+2024-12-07 07:07:48,662 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/understanding-state-university-grant-eligibility.shtml
+2024-12-07 07:07:48,926 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/undergraduate/links-and-forms.shtml
+2024-12-07 07:07:49,064 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/index.shtml
+2024-12-07 07:07:49,235 	ERROR 	Failed to retrieve https://www.cpp.edu/housing/payment/index.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:07:49,362 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/jjoakley/index.shtml
+2024-12-07 07:07:49,405 	INFO 	1 TARGET PAGE DETECTED https://www.cpp.edu/faculty/jjoakley/index.shtml
+2024-12-07 07:07:49,411 	INFO 	Indexed page: https://www.cpp.edu/faculty/jjoakley/index.shtml
+2024-12-07 07:07:49,668 	INFO 	URL Retrieved: http://www.cpp.edu/em/emergency-communication/index.shtml
+2024-12-07 07:07:49,797 	INFO 	URL Retrieved: https://www.cpp.edu/cba/scholarships.shtml
+2024-12-07 07:07:49,972 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/master-science-information-security-face-to-face.shtml
+2024-12-07 07:07:50,236 	INFO 	URL Retrieved: http://www.cpp.edu/em/emergency-procedures.shtml
+2024-12-07 07:07:50,399 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/loan-information.shtml
+2024-12-07 07:07:50,654 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/undergraduate/advising.shtml
+2024-12-07 07:07:50,824 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/current-students/tutoring.shtml
+2024-12-07 07:07:51,078 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/undergraduate/parent-and-family.shtml
+2024-12-07 07:07:51,374 	INFO 	URL Retrieved: http://www.cpp.edu/em/business-continuity.shtml
+2024-12-07 07:07:51,413 	INFO 	Space detection: 'https://cpp.zoom.us/meeting/register/tZwtf-2grjIqHNL3EBTZL7DcFTgHHlyIezK2�' instead 'https://cpp.zoom.us/meeting/register/tZwtf-2grjIqHNL3EBTZL7DcFTgHHlyIezK2' from http://www.cpp.edu/em/business-continuity.shtml
+2024-12-07 07:07:51,413 	INFO 	Space detection: 'https://cpp.zoom.us/meeting/register/tZYvceuhqz8jGNOXmU9tTZY1y20qalEPArED�' instead 'https://cpp.zoom.us/meeting/register/tZYvceuhqz8jGNOXmU9tTZY1y20qalEPArED' from http://www.cpp.edu/em/business-continuity.shtml
+2024-12-07 07:07:51,758 	INFO 	URL Retrieved: http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml
+2024-12-07 07:07:51,937 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/omdifranco/index.shtml
+2024-12-07 07:07:51,987 	INFO 	2 TARGET PAGE DETECTED https://www.cpp.edu/faculty/omdifranco/index.shtml
+2024-12-07 07:07:51,994 	INFO 	Indexed page: https://www.cpp.edu/faculty/omdifranco/index.shtml
+2024-12-07 07:07:52,143 	INFO 	URL Retrieved: https://www.cpp.edu/file-viewers.shtml
+2024-12-07 07:07:52,510 	INFO 	URL Retrieved: http://www.cpp.edu/~aboutcpp/administration.shtml
+2024-12-07 07:07:52,665 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/appeals.shtml
+2024-12-07 07:07:52,910 	INFO 	URL Retrieved: https://www.cpp.edu/safer-return/visitors/index.shtml
+2024-12-07 07:07:53,286 	INFO 	URL Retrieved: http://www.cpp.edu/~campus-life/housing-dining/index.shtml
+2024-12-07 07:07:53,448 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/understanding-enrollment-requirements.shtml
+2024-12-07 07:07:53,826 	INFO 	URL Retrieved: http://www.cpp.edu/giving/ways-give.shtml
+2024-12-07 07:07:53,979 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/schedule.shtml
+2024-12-07 07:07:54,069 	INFO 	Space detection: 'https://engage.cpp.edu/register/?id=c2f4d93c-a1e7-45ea-9012-ac7911fec26b%20 ' instead 'https://engage.cpp.edu/register/?id=c2f4d93c-a1e7-45ea-9012-ac7911fec26b%20' from https://www.cpp.edu/cba/graduate-business-programs/schedule.shtml
+2024-12-07 07:07:54,272 	INFO 	URL Retrieved: http://www.cpp.edu/em/reosources.shtml
+2024-12-07 07:07:54,469 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/federal-work-study/on-campus-employers-information.shtml
+2024-12-07 07:07:54,730 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/masters-information-security.shtml
+2024-12-07 07:07:54,976 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/faculty-and-staff/lecturer-positions.shtml
+2024-12-07 07:07:55,159 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/understanding-sap.shtml
+2024-12-07 07:07:55,714 	INFO 	URL Retrieved: https://www.cpp.edu/~academic-affairs/index.shtml
+2024-12-07 07:07:55,885 	INFO 	URL Retrieved: https://www.cpp.edu/cba/news-events/news/articles/money-management-matters.shtml
+2024-12-07 07:07:56,047 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/understanding-aid-program-limits.shtml
+2024-12-07 07:07:56,304 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/about-us/endowment.shtml
+2024-12-07 07:07:56,677 	INFO 	URL Retrieved: https://www.cpp.edu/~cba/academics/index.shtml
+2024-12-07 07:07:57,048 	INFO 	URL Retrieved: http://www.cpp.edu/~safety/index.shtml
+2024-12-07 07:07:57,296 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/heritage/kellogg-house-pomona.shtml
+2024-12-07 07:07:57,461 	INFO 	URL Retrieved: https://www.cpp.edu/cba/alumni-friends/distinguished-alumni.shtml
+2024-12-07 07:07:57,649 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/degrees-admissions/bfa-visual-communication-design.shtml
+2024-12-07 07:07:57,900 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/volunteer-income-tax-assistance/annual-reports.shtml
+2024-12-07 07:07:58,078 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/graduate/prospective1/how-to-apply-for-aid-fafsa.shtml
+2024-12-07 07:07:58,332 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/faculty-and-staff/index.shtml
+2024-12-07 07:07:58,731 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/visitor-information/dining.shtml
+2024-12-07 07:07:58,958 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/mcgood/index.shtml
+2024-12-07 07:07:58,979 	INFO 	3 TARGET PAGE DETECTED https://www.cpp.edu/faculty/mcgood/index.shtml
+2024-12-07 07:07:58,985 	INFO 	Indexed page: https://www.cpp.edu/faculty/mcgood/index.shtml
+2024-12-07 07:07:59,229 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/why-cpp/quality-learning-experiences.shtml
+2024-12-07 07:07:59,861 	INFO 	URL Retrieved: https://engage.cpp.edu/register/?id=55fcb962-4dee-48a6-af4f-cba71a74bdce
+2024-12-07 07:08:00,103 	INFO 	URL Retrieved: https://www.cpp.edu/commencement/index.shtml
+2024-12-07 07:08:00,250 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/smscholz/index.shtml
+2024-12-07 07:08:00,290 	INFO 	4 TARGET PAGE DETECTED https://www.cpp.edu/faculty/smscholz/index.shtml
+2024-12-07 07:08:00,302 	INFO 	Indexed page: https://www.cpp.edu/faculty/smscholz/index.shtml
+2024-12-07 07:08:00,433 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/index.shtml
+2024-12-07 07:08:00,688 	INFO 	URL Retrieved: https://www.cpp.edu/news/content/2024/10/in-memoriam-patricia-m-hopkins/index.shtml
+2024-12-07 07:08:00,841 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/financial-aid-outreach.shtml
+2024-12-07 07:08:01,085 	INFO 	URL Retrieved: https://www.cpp.edu/admissions/clery-notice-of-availability.shtml
+2024-12-07 07:08:01,432 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/current-students/index.shtml
+2024-12-07 07:08:01,522 	INFO 	Space detection: 'mailto:mgomaa@cpp.edu�' instead 'mailto:mgomaa@cpp.edu' from https://www.cpp.edu/cba/accounting/current-students/index.shtml
+2024-12-07 07:08:01,523 	INFO 	Space detection: 'mailto:kang@cpp.edu�' instead 'mailto:kang@cpp.edu' from https://www.cpp.edu/cba/accounting/current-students/index.shtml
+2024-12-07 07:08:01,523 	INFO 	Space detection: 'mailto:joonholee@cpp.edu�' instead 'mailto:joonholee@cpp.edu' from https://www.cpp.edu/cba/accounting/current-students/index.shtml
+2024-12-07 07:08:01,678 	INFO 	URL Retrieved: https://www.cpp.edu/fpm/fm/index.shtml
+2024-12-07 07:08:01,857 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/current-students/scholarships.shtml
+2024-12-07 07:08:02,085 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/about/enrollment-trends.shtml
+2024-12-07 07:08:02,324 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/about-us/contact-us.shtml
+2024-12-07 07:08:02,705 	INFO 	URL Retrieved: http://www.cpp.edu/~academics/academic-resources/index.shtml
+2024-12-07 07:08:02,962 	INFO 	URL Retrieved: http://www.cpp.edu/em/great-shake-out/index.shtml
+2024-12-07 07:08:03,111 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/index.shtml
+2024-12-07 07:08:03,351 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/index.shtml
+2024-12-07 07:08:03,838 	INFO 	URL Retrieved: http://www.cpp.edu/~academics/university-catalog/index.shtml
+2024-12-07 07:08:04,335 	INFO 	URL Retrieved: https://www.cpp.edu/fpm/fm/lock-shop-services.shtml
+2024-12-07 07:08:04,471 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/future-students/apply.shtml
+2024-12-07 07:08:04,724 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/ozkaya/index.shtml
+2024-12-07 07:08:04,743 	INFO 	5 TARGET PAGE DETECTED https://www.cpp.edu/faculty/ozkaya/index.shtml
+2024-12-07 07:08:04,750 	INFO 	Indexed page: https://www.cpp.edu/faculty/ozkaya/index.shtml
+2024-12-07 07:08:04,907 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/aid-offer-notification.shtml
+2024-12-07 07:08:05,161 	INFO 	URL Retrieved: https://www.cpp.edu/student-gateway/index.shtml
+2024-12-07 07:08:05,252 	INFO 	Space detection: 'https://www.cpp.edu/studentsuccess/bronco-advising-center/index.shtml ' instead 'https://www.cpp.edu/studentsuccess/bronco-advising-center/index.shtml' from https://www.cpp.edu/student-gateway/index.shtml
+2024-12-07 07:08:05,252 	INFO 	Space detection: 'https://www.cpp.edu/studentsuccess/directories/departments-az.shtml ' instead 'https://www.cpp.edu/studentsuccess/directories/departments-az.shtml' from https://www.cpp.edu/student-gateway/index.shtml
+2024-12-07 07:08:05,252 	INFO 	Space detection: 'https://www.cpp.edu/studentsuccess/directories/departments-az.shtml ' instead 'https://www.cpp.edu/studentsuccess/directories/departments-az.shtml' from https://www.cpp.edu/student-gateway/index.shtml
+2024-12-07 07:08:05,539 	INFO 	URL Retrieved: http://www.cpp.edu/privacy.shtml
+2024-12-07 07:08:05,687 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/current-students/experience.shtml
+2024-12-07 07:08:06,060 	ERROR 	Failed to retrieve https://www.cpp.edu/eoda-hr/departments/payroll/student-employee/index.shtml: <HTTPError 500: 'Server Error'>
+2024-12-07 07:08:06,439 	INFO 	URL Retrieved: http://www.cpp.edu/em/emergency-communication/safety-alert-system.shtml
+2024-12-07 07:08:06,586 	INFO 	URL Retrieved: https://www.cpp.edu/contact.shtml
+2024-12-07 07:08:06,740 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/mghosn/index.shtml
+2024-12-07 07:08:06,904 	INFO 	URL Retrieved: https://www.cpp.edu/website-feedback.shtml
+2024-12-07 07:08:07,058 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2015-2016/egr.shtml
+2024-12-07 07:08:07,227 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/masters-digital-supply-chain-management.shtml
+2024-12-07 07:08:07,476 	INFO 	URL Retrieved: https://www.cpp.edu/env/landscape-architecture/index.shtml
+2024-12-07 07:08:07,662 	INFO 	URL Retrieved: https://www.cpp.edu/canvas/index.shtml
+2024-12-07 07:08:07,805 	INFO 	URL Retrieved: https://www.cpp.edu/env/model-shop/index.shtml
+2024-12-07 07:08:08,047 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/events/2024-events.shtml
+2024-12-07 07:08:08,295 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/calpolypomona-overview/public-good.shtml
+2024-12-07 07:08:08,542 	INFO 	URL Retrieved: https://www.cpp.edu/library/access-services/group-study-rooms/reserve-a-room.shtml
+2024-12-07 07:08:08,732 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2014-2015/env.shtml
+2024-12-07 07:08:08,983 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/visitor-information/parking.shtml
+2024-12-07 07:08:09,145 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/graduate/index.shtml
+2024-12-07 07:08:09,397 	INFO 	URL Retrieved: https://www.cpp.edu/library/index.shtml
+2024-12-07 07:08:09,647 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/sa-alumni/tell-us-your-story.shtml
+2024-12-07 07:08:09,796 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/credentials/current/after-you-apply.shtml
+2024-12-07 07:08:10,045 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/faqs.shtml
+2024-12-07 07:08:10,293 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/mba-requirements.shtml
+2024-12-07 07:08:10,441 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2012-2013/class.shtml
+2024-12-07 07:08:10,565 	ERROR 	Failed to retrieve https://www.cpp.edu/cba/accounting/docs/2013. 01160-2013_Scholarships.xlsx: InvalidURL("URL can't contain control characters. '/cba/accounting/docs/2013. 01160-2013_Scholarships.xlsx' (found at least ' ')")
+2024-12-07 07:08:10,811 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/why-cpp/diverse.shtml
+2024-12-07 07:08:11,180 	INFO 	URL Retrieved: http://www.cpp.edu/~career/index.shtml
+2024-12-07 07:08:11,426 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/heritage/index.shtml
+2024-12-07 07:08:11,672 	INFO 	URL Retrieved: http://www.cpp.edu/outreach/tours.shtml
+2024-12-07 07:08:11,925 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2016-2017/egr.shtml
+2024-12-07 07:08:12,159 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/news/articles/msdm-approved.shtml
+2024-12-07 07:08:12,413 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/news.shtml
+2024-12-07 07:08:12,599 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/docs/2024-scholarship-awards.pdf
+2024-12-07 07:08:12,722 	ERROR 	Failed to retrieve https://www.cpp.edu/cba/accounting/docs/2024-scholarship-awards.pdf: UnicodeDecodeError('utf-8', b'%PDF-1.4\r\n%\xe2\xe3\xcf\xd3\r\n1 0 obj\r\n<<\r\n/Type /Page\r\n/MediaBox [ 0 0 612 792 ]\r\n/Resources << /ExtGState << /GS5 2 0 R /GS8 3 0 R >> /Font << /F1 4 0 R /F2\r\n5 0 R /F3 6 0 R /F4 7 0 R >> >>\r\n/Contents 8 0 R\r\n/Group << /Type /Group /S /Transparency /CS /DeviceRGB >>\r\n/Tabs /S\r\n/StructParents 0\r\n/Parent 9 0 R\r\n/Rotate 360\r\n>>\r\nendobj\r\n2 0 obj\r\n<<\r\n/Type /ExtGState\r\n/BM /Normal\r\n/ca 1\r\n>>\r\nendobj\r\n3 0 obj\r\n<<\r\n/Type /ExtGState\r\n...
+2024-12-07 07:08:12,861 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/academics/advising-forms.shtml
+2024-12-07 07:08:13,027 	INFO 	URL Retrieved: https://www.cpp.edu/giving/index.shtml
+2024-12-07 07:08:13,402 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/index.shtml
+2024-12-07 07:08:13,646 	INFO 	URL Retrieved: https://www.cpp.edu/library/special-collections/index.shtml
+2024-12-07 07:08:13,802 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/heritage/kellogg-house-pomona.shtml
+2024-12-07 07:08:14,046 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/index.shtml
+2024-12-07 07:08:14,215 	INFO 	URL Retrieved: https://www.cpp.edu/env/culture/neutra-vdl.shtml
+2024-12-07 07:08:14,386 	INFO 	URL Retrieved: https://www.cpp.edu/privacy.shtml
+2024-12-07 07:08:14,648 	INFO 	URL Retrieved: http://www.cpp.edu/giving/ways-to-give/matching-gifts.shtml
+2024-12-07 07:08:14,896 	INFO 	URL Retrieved: https://www.cpp.edu/giving/advancement-division/career.shtml
+2024-12-07 07:08:15,035 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/faqs1/index.shtml
+2024-12-07 07:08:15,280 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/about/news.shtml
+2024-12-07 07:08:15,532 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/current-students/office-hours.shtml
+2024-12-07 07:08:15,697 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/federal-work-study/student-information.shtml
+2024-12-07 07:08:15,948 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/faculty-and-staff/faculty-listing.shtml
+2024-12-07 07:08:16,019 	INFO 	Space detection: 'mailto:nahadiat@cpp.edu ' instead 'mailto:nahadiat@cpp.edu' from https://www.cpp.edu/cba/accounting/faculty-and-staff/faculty-listing.shtml
+2024-12-07 07:08:16,020 	INFO 	Space detection: 'mailto:phhii@cpp.edu ' instead 'mailto:phhii@cpp.edu' from https://www.cpp.edu/cba/accounting/faculty-and-staff/faculty-listing.shtml
+2024-12-07 07:08:16,328 	INFO 	URL Retrieved: https://www.cpp.edu/~library/index.shtml
+2024-12-07 07:08:16,464 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/resources/understanding-verification.shtml
+2024-12-07 07:08:16,856 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/why-cpp/well-ranked.shtml
+2024-12-07 07:08:17,103 	ERROR 	Failed to retrieve https://www.cpp.edu/fpm/sustainability-suggestions.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:08:17,379 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/visitor-information/lodging.shtml
+2024-12-07 07:08:17,550 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/faculty-resources.shtml
+2024-12-07 07:08:17,795 	INFO 	URL Retrieved: https://www.cpp.edu/fpm/fm/energy.shtml
+2024-12-07 07:08:17,949 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/sa-alumni/peer-advisor-program.shtml
+2024-12-07 07:08:18,447 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/scholarships/scholarship-faqs.shtml
+2024-12-07 07:08:18,723 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/curriculum/learning-outcome.shtml
+2024-12-07 07:08:18,974 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/about/mission-values.shtml
+2024-12-07 07:08:19,144 	INFO 	URL Retrieved: https://www.cpp.edu/library/access-services/borrowing/returning-materials-after-hours.shtml
+2024-12-07 07:08:19,316 	INFO 	URL Retrieved: https://www.cpp.edu/em/index.shtml
+2024-12-07 07:08:19,494 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/industry/index.shtml
+2024-12-07 07:08:19,732 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/studio-safety/print-making.shtml
+2024-12-07 07:08:19,892 	INFO 	URL Retrieved: https://www.cpp.edu/index.shtml
+2024-12-07 07:08:20,148 	INFO 	URL Retrieved: https://www.cpp.edu/fpm/fm/auto/vehicle-lease.shtml
+2024-12-07 07:08:20,294 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2015-2016/bus.shtml
+2024-12-07 07:08:20,566 	INFO 	URL Retrieved: https://www.cpp.edu/safer-return/index.shtml
+2024-12-07 07:08:20,822 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/forms/msis-rfi.shtml
+2024-12-07 07:08:20,846 	ERROR 	Failed to retrieve https://www.cpp.edu/news/all-news.shtml?tag=International Business and Marketing: InvalidURL("URL can't contain control characters. '/news/all-news.shtml?tag=International Business and Marketing' (found at least ' ')")
+2024-12-07 07:08:20,982 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/faculty-and-staff/tenure-track-openings.shtml
+2024-12-07 07:08:21,234 	INFO 	URL Retrieved: https://www.cpp.edu/env/landscape-architecture/giving/make-a-gift.shtml
+2024-12-07 07:08:21,386 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/tmhossain/index.shtml
+2024-12-07 07:08:21,445 	INFO 	6 TARGET PAGE DETECTED https://www.cpp.edu/faculty/tmhossain/index.shtml
+2024-12-07 07:08:21,451 	INFO 	Indexed page: https://www.cpp.edu/faculty/tmhossain/index.shtml
+2024-12-07 07:08:21,589 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/centers/index.shtml
+2024-12-07 07:08:21,835 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/contact-and-location.shtml
+2024-12-07 07:08:22,079 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/lueilinong/index.shtml
+2024-12-07 07:08:22,097 	INFO 	7 TARGET PAGE DETECTED https://www.cpp.edu/faculty/lueilinong/index.shtml
+2024-12-07 07:08:22,104 	INFO 	Indexed page: https://www.cpp.edu/faculty/lueilinong/index.shtml
+2024-12-07 07:08:22,357 	INFO 	URL Retrieved: http://www.cpp.edu/studentconduct/student-conduct-referral.shtml
+2024-12-07 07:08:22,522 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2018-2019/egr.shtml
+2024-12-07 07:08:22,692 	INFO 	URL Retrieved: https://www.cpp.edu/campus-life/recreation-fitness/index.shtml
+2024-12-07 07:08:22,876 	INFO 	URL Retrieved: https://www.cpp.edu/env/landscape-architecture/academic-student-resources/courses.shtml
+2024-12-07 07:08:23,129 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/other-programs/certificate-programs.shtml
+2024-12-07 07:08:23,526 	INFO 	URL Retrieved: https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2024/10/in-memoriam-patricia-m-hopkins/index.shtml
+2024-12-07 07:08:23,672 	INFO 	URL Retrieved: https://www.cpp.edu/studentsuccess/oss/gi-2025/index.shtml
+2024-12-07 07:08:23,857 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/giving/index.shtml
+2024-12-07 07:08:24,105 	INFO 	URL Retrieved: https://www.cpp.edu/cba/finance-real-estate-and-law/job-positions/part-time.shtml
+2024-12-07 07:08:24,256 	INFO 	URL Retrieved: https://www.cpp.edu/admissions/freshmen/local-area.shtml
+2024-12-07 07:08:24,506 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/undergraduate/internships.shtml
+2024-12-07 07:08:24,670 	INFO 	URL Retrieved: https://www.cpp.edu/fpm/fm/logistics/index.shtml
+2024-12-07 07:08:24,921 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2017-2018/ceis.shtml
+2024-12-07 07:08:25,102 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2017-2018/cchm.shtml
+2024-12-07 07:08:25,270 	INFO 	URL Retrieved: https://www.cpp.edu/cppsrc/index.shtml
+2024-12-07 07:08:25,517 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2013-2014/egr.shtml
+2024-12-07 07:08:25,761 	ERROR 	Failed to retrieve http://www.cpp.edu/~stratcomm/for-the-media.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:08:25,898 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/semester-curriculum/semester-minors-courses.shtml
+2024-12-07 07:08:26,149 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/industry/career-opportunities.shtml
+2024-12-07 07:08:26,323 	INFO 	URL Retrieved: https://www.cpp.edu/cba/news-events/index.shtml
+2024-12-07 07:08:26,510 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/curriculum-development/contact.shtml
+2024-12-07 07:08:26,689 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2017-2018/env.shtml
+2024-12-07 07:08:26,887 	INFO 	URL Retrieved: https://www.cpp.edu/commencement/graduates-information/requirements.shtml
+2024-12-07 07:08:27,136 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/index.shtml
+2024-12-07 07:08:27,284 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/visitor-information/attractions.shtml
+2024-12-07 07:08:27,462 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/administration.shtml
+2024-12-07 07:08:27,869 	INFO 	URL Retrieved: http://www.cpp.edu/~studentsuccess/academic-calendar/finals-week.shtml
+2024-12-07 07:08:28,247 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2018-2019/ceis.shtml
+2024-12-07 07:08:28,487 	INFO 	URL Retrieved: http://www.cpp.edu/outreach/parents-families.shtml
+2024-12-07 07:08:28,525 	INFO 	Space detection: 'https://www.cpp.edu/financial-aid/index.shtml ' instead 'https://www.cpp.edu/financial-aid/index.shtml' from http://www.cpp.edu/outreach/parents-families.shtml
+2024-12-07 07:08:28,525 	INFO 	Space detection: 'https://www.cpp.edu/orientation/resource-hub.shtml ' instead 'https://www.cpp.edu/orientation/resource-hub.shtml' from http://www.cpp.edu/outreach/parents-families.shtml
+2024-12-07 07:08:28,733 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/mgomaa/index.shtml
+2024-12-07 07:08:28,745 	INFO 	Space detection: 'https://www.linkedin.com/in/mohamed-gomaa-b9584919/ ' instead 'https://www.linkedin.com/in/mohamed-gomaa-b9584919/' from https://www.cpp.edu/faculty/mgomaa/index.shtml
+2024-12-07 07:08:28,891 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2019-2020/sci.shtml
+2024-12-07 07:08:29,254 	INFO 	URL Retrieved: https://www.cpp.edu/~admissions/intl/apply.shtml
+2024-12-07 07:08:29,753 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/bios/daniel-macias.shtml
+2024-12-07 07:08:30,146 	INFO 	URL Retrieved: http://www.cpp.edu/~parking/index.shtml
+2024-12-07 07:08:30,395 	INFO 	URL Retrieved: https://www.cpp.edu/academic-affairs/provost-office/index.shtml
+2024-12-07 07:08:30,527 	INFO 	URL Retrieved: https://www.cpp.edu/admissions/transfer/app-checklist.shtml
+2024-12-07 07:08:30,779 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/why-cpp/well-ranked.shtml
+2024-12-07 07:08:31,027 	INFO 	URL Retrieved: https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml
+2024-12-07 07:08:31,392 	INFO 	URL Retrieved: http://www.cpp.edu/~studentsuccess/directories/declaring-a-minor.shtml
+2024-12-07 07:08:31,794 	INFO 	URL Retrieved: https://www.cpp.edu/studentsuccess/oss/i-am-first/index.shtml
+2024-12-07 07:08:31,972 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/about/faq.shtml
+2024-12-07 07:08:32,156 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/bios/mohammad-salehan.shtml
+2024-12-07 07:08:32,409 	INFO 	URL Retrieved: https://www.cpp.edu/cba/customer-insights-lab/
+2024-12-07 07:08:32,647 	INFO 	URL Retrieved: https://www.cpp.edu/ceis/education/masters-programs/index.shtml
+2024-12-07 07:08:32,902 	INFO 	URL Retrieved: https://www.cpp.edu/news/all-news.shtml?category=22
+2024-12-07 07:08:33,076 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2011-2012/bus.shtml
+2024-12-07 07:08:33,451 	INFO 	URL Retrieved: https://www.cpp.edu/~admissions/index.shtml
+2024-12-07 07:08:33,621 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/federal-work-study/faqs.shtml
+2024-12-07 07:08:34,114 	INFO 	URL Retrieved: http://www.cpp.edu/%7Ehealthcounseling/index.shtml
+2024-12-07 07:08:34,363 	INFO 	URL Retrieved: http://www.cpp.edu/police/programs-and-services/cso-program.shtml
+2024-12-07 07:08:34,412 	ERROR 	Failed to retrieve https://www.cpp.edu/cba/news-events/{{article.url.replace('dashdash', '--')}}: InvalidURL('URL can\'t contain control characters. "/cba/news-events/{{article.url.replace(\'dashdash\', \'--\')}}" (found at least \' \')')
+2024-12-07 07:08:34,653 	INFO 	URL Retrieved: http://www.cpp.edu/studentconduct/workshops.shtml
+2024-12-07 07:08:34,822 	INFO 	URL Retrieved: https://www.cpp.edu/programs/index.shtml
+2024-12-07 07:08:34,997 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/office-hours.shtml
+2024-12-07 07:08:35,253 	ERROR 	Failed to retrieve https://www.cpp.edu/cba/technology-and-operations-management/current-students/scholarships/index.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:08:35,504 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/calpolypomona-overview/public-good.shtml
+2024-12-07 07:08:35,749 	INFO 	URL Retrieved: https://www.cpp.edu/library/access-services/course-reserve/reserve-request-form.shtml
+2024-12-07 07:08:35,922 	INFO 	URL Retrieved: https://www.cpp.edu/library/special-collections/collecting-areas.shtml
+2024-12-07 07:08:35,966 	INFO 	Space detection: 'https://libguides.library.cpp.edu/wkkahl ' instead 'https://libguides.library.cpp.edu/wkkahl' from https://www.cpp.edu/library/special-collections/collecting-areas.shtml
+2024-12-07 07:08:36,106 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2010-2011/egr.shtml
+2024-12-07 07:08:36,386 	INFO 	URL Retrieved: https://www.cpp.edu/env/about/deans-advisory-council/index.shtml
+2024-12-07 07:08:36,566 	INFO 	URL Retrieved: https://www.cpp.edu/cba/finance-real-estate-and-law/jobs-internships.shtml
+2024-12-07 07:08:36,945 	INFO 	URL Retrieved: http://www.cpp.edu/~registrar/index.shtml
+2024-12-07 07:08:37,233 	INFO 	URL Retrieved: http://www.cpp.edu/police/operationaldetails.shtml
+2024-12-07 07:08:37,626 	INFO 	URL Retrieved: http://www.cpp.edu/~registrar/bronco-direct-student-center.shtml
+2024-12-07 07:08:37,888 	INFO 	URL Retrieved: https://www.cpp.edu/cba/management-and-human-resources/index.shtml
+2024-12-07 07:08:38,144 	INFO 	URL Retrieved: https://www.cpp.edu/cba/customer-insights-lab/curriculum/index.shtml
+2024-12-07 07:08:38,385 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/docs/2018-scholarship-awards
+2024-12-07 07:08:38,683 	ERROR 	Failed to retrieve https://www.cpp.edu/cba/accounting/docs/2018-scholarship-awards: UnicodeDecodeError('utf-8', b'%PDF-1.5\r\n%\xb5\xb5\xb5\xb5\r\n1 0 obj\r\n<</Type/Catalog/Pages 2 0 R/Lang(en-US) /StructTreeRoot 14 0 R/MarkInfo<</Marked true>>>>\r\nendobj\r\n2 0 obj\r\n<</Type/Pages/Count 1/Kids[ 4 0 R] >>\r\nendobj\r\n3 0 obj\r\n<</Author(Lucy A. Breza) /CreationDate(D:20180627133522-07\'00\') /ModDate(D:20180627133522-07\'00\') /Producer(\xfe\xff\x00M\x00i\x00c\x00r\x00o\x00s\x00o\x00f\x00t\x00\xae\x00 \x00E\x00x\x00c\x00e\x00l\x00\xae\x00 \x002\x000\x001\x006) /Creator(\xfe\xff\x00M\x...
+2024-12-07 07:08:38,935 	INFO 	URL Retrieved: http://www.cpp.edu/police/programs-and-services/live-scan.shtml
+2024-12-07 07:08:39,122 	INFO 	URL Retrieved: https://www.cpp.edu/news/content/2024/11/academic-innovation-winter-institute-empowers-faculty-and-staff-through-inclusive-mentorship-practices/index.shtml
+2024-12-07 07:08:39,269 	INFO 	URL Retrieved: https://www.cpp.edu/student-affairs/index.shtml
+2024-12-07 07:08:39,645 	INFO 	URL Retrieved: https://www.cpp.edu/~env/about/deans-advisory-council/meet-the-board.shtml
+2024-12-07 07:08:39,889 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/faculty-and-staff/faculty-research.shtml
+2024-12-07 07:08:40,189 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/why-cpp/well-ranked.shtml
+2024-12-07 07:08:40,446 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/scholarships/department-staff-and-faculty-information.shtml
+2024-12-07 07:08:40,695 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/msdscm-faq.shtml
+2024-12-07 07:08:40,862 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/zma/index.shtml
+2024-12-07 07:08:41,035 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2011-2012/class.shtml
+2024-12-07 07:08:41,294 	INFO 	URL Retrieved: https://www.cpp.edu/academics/tutoring-learning-services/index.shtml
+2024-12-07 07:08:41,458 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/about/computer-laptop-requirements.shtml
+2024-12-07 07:08:41,706 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/lueilinong/teaching.shtml
+2024-12-07 07:08:41,721 	INFO 	8 TARGET PAGE DETECTED https://www.cpp.edu/faculty/lueilinong/teaching.shtml
+2024-12-07 07:08:41,728 	INFO 	Indexed page: https://www.cpp.edu/faculty/lueilinong/teaching.shtml
+2024-12-07 07:08:41,865 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/yufanlin/index.shtml
+2024-12-07 07:08:41,922 	INFO 	9 TARGET PAGE DETECTED https://www.cpp.edu/faculty/yufanlin/index.shtml
+2024-12-07 07:08:41,930 	INFO 	Indexed page: https://www.cpp.edu/faculty/yufanlin/index.shtml
+2024-12-07 07:08:42,213 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/why-cpp/quality-learning-experiences.shtml
+2024-12-07 07:08:42,394 	INFO 	URL Retrieved: https://www.cpp.edu/mcnair/index.shtml
+2024-12-07 07:08:42,651 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/msis-curriculum.shtml
+2024-12-07 07:08:43,017 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/heritage/kellogg-connection.shtml
+2024-12-07 07:08:43,158 	INFO 	URL Retrieved: https://www.cpp.edu/police/index.shtml
+2024-12-07 07:08:43,403 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/visitor-information/lodging.shtml
+2024-12-07 07:08:43,650 	INFO 	URL Retrieved: https://www.cpp.edu/cppsrc/staff-award/past-awardees.shtml
+2024-12-07 07:08:43,945 	INFO 	URL Retrieved: https://www.cpp.edu/~financial-aid/undergraduate/current/index.shtml
+2024-12-07 07:08:44,185 	INFO 	URL Retrieved: https://www.cpp.edu/safer-return/vaccine.shtml
+2024-12-07 07:08:44,362 	INFO 	URL Retrieved: https://www.cpp.edu/cba/news-events/news/articles/stonerock-dbss.shtml
+2024-12-07 07:08:44,613 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/heritage/kellogg-connection.shtml
+2024-12-07 07:08:44,774 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/accreditation/wscuc.shtml
+2024-12-07 07:08:45,022 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/faculty/bios/deepti-agrawal.shtml
+2024-12-07 07:08:45,445 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/faculty-staff/faculty-seminars.shtml
+2024-12-07 07:08:45,701 	INFO 	URL Retrieved: https://www.cpp.edu/env/architecture/program-degrees-admissions/master-of-interior-architecture.shtml
+2024-12-07 07:08:45,888 	INFO 	URL Retrieved: https://www.cpp.edu/cba/finance-real-estate-and-law/current-students/clubs.shtml
+2024-12-07 07:08:46,294 	INFO 	URL Retrieved: http://www.cpp.edu/~campus-life/student-activities/index.shtml
+2024-12-07 07:08:46,476 	INFO 	URL Retrieved: https://www.cpp.edu/police/programs-and-services/events.shtml
+2024-12-07 07:08:46,637 	INFO 	URL Retrieved: https://www.cpp.edu/cba/news-events/news/index.shtml
+2024-12-07 07:08:46,809 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/degrees-admissions/minor-studio-arts.shtml
+2024-12-07 07:08:46,981 	INFO 	URL Retrieved: https://www.cpp.edu/admissions/international/freshmen.shtml
+2024-12-07 07:08:47,230 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2011-2012/egr.shtml
+2024-12-07 07:08:47,477 	INFO 	URL Retrieved: https://www.cpp.edu/news/all-news.shtml?category=17
+2024-12-07 07:08:47,728 	INFO 	URL Retrieved: https://www.cpp.edu/ehs/occupational-health/workplace-violence-prevention.shtml
+2024-12-07 07:08:47,968 	INFO 	URL Retrieved: https://www.cpp.edu/admissions/transfer/waitlist-faq.shtml
+2024-12-07 07:08:48,219 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2009-2010/sci.shtml
+2024-12-07 07:08:48,389 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/other-programs/study-abroad.shtml
+2024-12-07 07:08:48,642 	INFO 	URL Retrieved: https://www.cpp.edu/copyright.shtml
+2024-12-07 07:08:48,797 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2013-2014/bus.shtml
+2024-12-07 07:08:48,965 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/about/faculty/msfa-faculty.shtml
+2024-12-07 07:08:49,241 	INFO 	URL Retrieved: https://www.cpp.edu/cppsrc/csu-src/past-competitions.shtml
+2024-12-07 07:08:49,492 	INFO 	URL Retrieved: https://www.cpp.edu/library/library-about.shtml
+2024-12-07 07:08:49,631 	INFO 	URL Retrieved: https://www.cpp.edu/international/study-abroad/about/presentation-request.shtml
+2024-12-07 07:08:49,881 	INFO 	URL Retrieved: https://www.cpp.edu/aboutcpp/visitor-information/getting-around.shtml
+2024-12-07 07:08:50,128 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2011-2012/curriculum-sheets/cba/BUS_Mkt_Mgmt_11.pdf
+2024-12-07 07:08:50,135 	ERROR 	Failed to retrieve https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2011-2012/curriculum-sheets/cba/BUS_Mkt_Mgmt_11.pdf: UnicodeDecodeError('utf-8', b'%PDF-1.6\r%\xe2\xe3\xcf\xd3\r\n11 0 obj\r<</Linearized 1/L 39570/O 13/E 28696/N 2/T 39308/H [ 1016 233]>>\rendobj\r                  \rxref\r11 36\r0000000016 00000 n\r\n0000001249 00000 n\r\n0000001310 00000 n\r\n0000001729 00000 n\r\n0000002114 00000 n\r\n0000002564 00000 n\r\n0000002612 00000 n\r\n0000002820 00000 n\r\n0000003066 00000 n\r\n0000003282 00000 n\r\n0000003632 00000 n\r\n0000004736 00000 n\r\n0000006091 00000 n\r\n0000006428 00000 n\r\n0000007716 00000 n\r\n0000...
+2024-12-07 07:08:50,270 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/msdscm-curriculum.shtml
+2024-12-07 07:08:50,401 	ERROR 	Failed to retrieve mailto:?subject=Check out this article from Cal Poly Pomona News&body=Check out this article - Academic Innovation Winter Institute Empowers Faculty and Staff Through Inclusive Mentorship Practices, https://www.cpp.edu/news/content/2024/11/academic-innovation-winter-institute-empowers-faculty-and-staff-through-inclusive-mentorship-practices/index.shtml: URLError('unknown url type: mailto')
+2024-12-07 07:08:50,651 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/calpolypomona-overview/facts-and-figures.shtml
+2024-12-07 07:08:50,793 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/credentials/newly-admitted-students.shtml
+2024-12-07 07:08:51,049 	INFO 	URL Retrieved: https://www.cpp.edu/cafe/index.shtml
+2024-12-07 07:08:51,345 	INFO 	URL Retrieved: https://www.cpp.edu/~financial-aid/undergraduate/current/aid-programs.shtml
+2024-12-07 07:08:51,709 	INFO 	URL Retrieved: https://www.cpp.edu/cba/management-and-human-resources/about-us/recruiter-info.shtml
+2024-12-07 07:08:51,886 	INFO 	URL Retrieved: https://www.cpp.edu/library/about/index.shtml
+2024-12-07 07:08:52,067 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/curriculum-development/program-modality.shtml
+2024-12-07 07:08:52,327 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/costs/msdscm-costs.shtml
+2024-12-07 07:08:52,489 	INFO 	URL Retrieved: https://www.cpp.edu/cba/international-business-marketing/faculty-staff/teacher-scholar.shtml
+2024-12-07 07:08:52,738 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/mgomaa/teaching.shtml
+2024-12-07 07:08:52,882 	INFO 	URL Retrieved: https://www.cpp.edu/cba/computer-information-systems/about-us/about-wagner.shtml
+2024-12-07 07:08:53,388 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/current-students/content-page.shtml
+2024-12-07 07:08:53,528 	INFO 	URL Retrieved: https://www.cpp.edu/veterans/index.shtml
+2024-12-07 07:08:53,803 	ERROR 	Failed to retrieve http://www.cpp.edu/~career/handshake.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:08:54,186 	INFO 	URL Retrieved: http://www.cpp.edu/~registrar/graduation/diploma-certificate-info.shtml
+2024-12-07 07:08:54,489 	INFO 	URL Retrieved: https://www.cpp.edu/~stratcomm/getting-news.shtml
+2024-12-07 07:08:54,879 	INFO 	URL Retrieved: http://www.cpp.edu/~studentsuccess/guides/change-of-major.shtml
+2024-12-07 07:08:55,127 	INFO 	URL Retrieved: https://www.cpp.edu/housing/futureresidents/apply-to-uhs.shtml
+2024-12-07 07:08:55,378 	INFO 	URL Retrieved: https://www.cpp.edu/ehs/environmental-safety/index.shtml
+2024-12-07 07:08:55,743 	INFO 	URL Retrieved: http://www.cpp.edu/aboutcpp/visitor-information/attractions.shtml
+2024-12-07 07:08:55,913 	INFO 	URL Retrieved: https://www.cpp.edu/env/art/news-events/events/index.shtml
+2024-12-07 07:08:56,161 	INFO 	URL Retrieved: https://www.cpp.edu/cba/graduate-business-programs/programs/msdscm-requirements.shtml
+2024-12-07 07:08:56,312 	INFO 	URL Retrieved: https://www.cpp.edu/cba/academics/index.shtml
+2024-12-07 07:08:56,591 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/credentials/newly-admitted/costs.shtml
+2024-12-07 07:08:56,955 	ERROR 	Failed to retrieve https://www.cpp.edu/fpm/forms.shtml: <HTTPError 404: 'Not Found'>
+2024-12-07 07:08:57,091 	INFO 	URL Retrieved: https://www.cpp.edu/financial-aid/graduate/newly-admitted-and-current1/aid-programs.shtml
+2024-12-07 07:08:57,464 	INFO 	URL Retrieved: https://www.cpp.edu/news/content/2024/11/cal-poly-pomona-chosen-for-renowned-fulbright-hispanic-serving-institution-leader-list/index.shtml
+2024-12-07 07:08:57,708 	INFO 	URL Retrieved: http://www.cpp.edu/registrar/faq/index.shtml
+2024-12-07 07:08:57,884 	INFO 	URL Retrieved: https://www.cpp.edu/honorscollege/current-students/resources.shtml
+2024-12-07 07:08:58,254 	INFO 	URL Retrieved: https://www.cpp.edu/~financial-aid/undergraduate/current/getting-your-aid.shtml
+2024-12-07 07:08:58,538 	INFO 	URL Retrieved: https://www.cpp.edu/cba/customer-insights-lab/about/index.shtml
+2024-12-07 07:08:58,710 	INFO 	URL Retrieved: https://www.cpp.edu/student-affairs/sa-staff/travel-request.shtml
+2024-12-07 07:08:59,205 	ERROR 	Failed to retrieve http://www.cpp.edu/~registrar/faculty-staff-resources/faculty-grading.shtml: <HTTPError 500: 'Server Error'>
+2024-12-07 07:08:59,348 	INFO 	URL Retrieved: https://www.cpp.edu/cba/accounting/volunteer-income-tax-assistance/hours-locations.shtml
+2024-12-07 07:08:59,606 	INFO 	URL Retrieved: https://www.cpp.edu/it/client-services/classroom-labs/hyflex-classrooms.shtml
+2024-12-07 07:09:00,012 	INFO 	URL Retrieved: http://www.cpp.edu/~registrar/academic-policies/index.shtml
+2024-12-07 07:09:00,409 	INFO 	URL Retrieved: http://www.cpp.edu/~registrar/ferpa.shtml
+2024-12-07 07:09:00,782 	INFO 	URL Retrieved: https://www.cpp.edu/~aboutcpp/heritage/history-archives.shtml
+2024-12-07 07:09:01,038 	INFO 	URL Retrieved: http://www.cpp.edu/studentconduct/about-us.shtml
+2024-12-07 07:09:01,267 	INFO 	URL Retrieved: https://www.cpp.edu/student-affairs/topics/policies.shtml
+2024-12-07 07:09:01,764 	INFO 	URL Retrieved: https://www.cpp.edu/class/sociology/index.shtml
+2024-12-07 07:09:02,015 	INFO 	URL Retrieved: https://www.cpp.edu/academic-programs/academic-advising/tools/sheets-roadmaps/2010-2011/sci.shtml
+2024-12-07 07:09:02,257 	INFO 	URL Retrieved: https://www.cpp.edu/em/about-us.shtml
+2024-12-07 07:09:02,383 	INFO 	URL Retrieved: https://www.cpp.edu/agri/nutrition-food-science/index.shtml
+2024-12-07 07:09:02,457 	INFO 	Space detection: 'https://www.cpp.edu/agri/about/board-of-advisors.shtml ' instead 'https://www.cpp.edu/agri/about/board-of-advisors.shtml' from https://www.cpp.edu/agri/nutrition-food-science/index.shtml
+2024-12-07 07:09:02,640 	INFO 	URL Retrieved: https://www.cpp.edu/faculty/fkbryant/index.shtml
+2024-12-07 07:09:02,655 	INFO 	10 TARGET PAGE DETECTED https://www.cpp.edu/faculty/fkbryant/index.shtml
+2024-12-07 07:09:02,662 	INFO 	Indexed page: https://www.cpp.edu/faculty/fkbryant/index.shtml
+2024-12-07 07:09:02,667 	INFO 	Limit reached, stopping crawl.
+2024-12-07 07:09:02,972 	INFO 	Inverted index stored.
